@@ -5,7 +5,8 @@
 
 📖 Currently studying angular, C# and .net
 
- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ **![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinasioli/)**
+ ![image](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinasioli/)
  </p>
  
  ![image](https://github-readme-stats.vercel.app/api?username=SabrinaSioli)
