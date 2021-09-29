@@ -5,7 +5,8 @@
 
 ✨ 
 
- <img src="{https://github-readme-stats.vercel.app/api?username={SabrinaSioli}}" /> 
+ ** <img src="{https://github-readme-stats.vercel.app/api?username={SabrinaSioli}}" /> **
+ ![image]({https://github-readme-stats.vercel.app/api?username={SabrinaSioli}})
 
 <!--
 **SabrinaSioli/SabrinaSioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
