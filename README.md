@@ -1,5 +1,5 @@
 ### Hi :)
-## I'm Sabrina <s>Sioli</s>
+## I'm Sabrina *Sioli*
 
 ✨ Computer Science student at <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
 
