@@ -3,7 +3,7 @@
 
 ✨ Computer Science student at <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
 
-📖 Studying angular, C# and .net
+📖 Currently studying angular, C# and .net
 
  ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
  </p>
