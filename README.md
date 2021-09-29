@@ -3,7 +3,9 @@
 
 ✨ Computer Science student at <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
 
-
+ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ </p>
+ 
  ![image](https://github-readme-stats.vercel.app/api?username=SabrinaSioli)
 
 <!--
