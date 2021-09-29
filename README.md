@@ -1,11 +1,9 @@
 ### Hi :)
 ## I'm Sabrina Silveira
 
-✨ Computer Science student at Federal University of Ceará
+✨ Computer Science student at <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
 
-✨ 
 
- **<img src="{https://github-readme-stats.vercel.app/api?username={SabrinaSioli}}" />**
  ![image](https://github-readme-stats.vercel.app/api?username=SabrinaSioli)
 
 <!--
