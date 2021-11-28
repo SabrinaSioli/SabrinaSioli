@@ -2,9 +2,10 @@
 ## I'm Sabrina *Sioli*
 
 ✨ Computer Science student at <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
-
+/**
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinasioli/)](https://www.linkedin.com/in/sabrinasioli/)
  </p>
+ */
  
  ![image](https://github-readme-stats.vercel.app/api?username=SabrinaSioli)
 
