@@ -2,7 +2,7 @@
 ## I`m Backend Software Engineer
 Playing with code and learning in the process.
 
-✨ Computer Science gtaduated from <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
+🎓 Computer Science gtaduated from <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinasioli/)](https://www.linkedin.com/in/sabrinasioli/)
  </p>
