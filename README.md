@@ -1,5 +1,6 @@
 ### Hi :)
-## I'm Sabrina
+## I`m Backend Software Engineer
+Playing with code and learning in the process.
 
 ✨ Computer Science student at <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
 
