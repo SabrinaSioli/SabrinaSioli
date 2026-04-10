@@ -2,7 +2,7 @@
 ## I`m Backend Software Engineer
 Playing with code and learning in the process.
 
-🎓 Computer Science graduate from <a href=“https://cc.ufc.br“> Federal University of Ceará </a>
+🎓 Computer Science graduate from Federal University of Ceará
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinasioli/)](https://www.linkedin.com/in/sabrinasioli/)
  </p>
