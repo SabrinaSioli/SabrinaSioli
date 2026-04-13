@@ -1,5 +1,5 @@
 ### Hi :)
-## I`m Backend Software Engineer
+## I`m Fullstack Software Developer
 Playing with code and learning in the process.
 
 🎓 Computer Science graduate from Federal University of Ceará
